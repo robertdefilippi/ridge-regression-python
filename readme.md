@@ -1,4 +1,5 @@
 # What is Ridge Regression — Applications in Python
+![Image](https://github.com/robertdefilippi/ridge-regression-python/blob/master/cover.png?raw=true)
 
 Jupyter notebook for the Medium article "What is Ridge Regression — Applications in Pythons"
 
